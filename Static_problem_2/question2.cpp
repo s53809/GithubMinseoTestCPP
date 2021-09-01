@@ -12,7 +12,7 @@ public:
 };
 
 int Board::top = 0;
-string Board::x[] = { "", };
+string Board::x[] = { "" };
 
 void Board::add(string str) {
 	x[top++] = str;
