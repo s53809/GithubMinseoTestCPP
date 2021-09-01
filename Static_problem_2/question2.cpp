@@ -11,8 +11,8 @@ public:
 	static void print();
 };
 
-int Board::top = 0;
-string Board::x[] = { "" };
+int Board::top = {};
+string Board::x[] = {};
 
 void Board::add(string str) {
 	x[top++] = str;
