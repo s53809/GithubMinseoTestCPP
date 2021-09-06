@@ -24,6 +24,7 @@
     <ProjectGuid>{49979d1c-9d11-4826-b28d-694c42fcb877}</ProjectGuid>
     <RootNamespace>Staticproblem3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>20210901_static_game</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
