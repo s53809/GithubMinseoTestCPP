@@ -8,7 +8,7 @@ using namespace std;
 class Game {
 private:
 	double energy = 100;
-	static int life;
+	static int life; //static을 활용을 잘 못했습니다 T^T 거의 의미가 없어요
 public:
 	double Damage(int dam);
 	static void Die();
@@ -39,7 +39,7 @@ double Game::Damage(int dam) {
 	return energy;
 }
 
-void Game::lifeRecharge() {
+void Game::lifeRecharge() { // 얘는 안썼습니다
 	cout << "라이프를 충전하시겠습니까? (예: 1/아니오: 2)\n";
 	int N;
 	cin >> N;
