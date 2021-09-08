@@ -10,10 +10,10 @@ T sum(T a, T b) {
 int main() {
 	int a = 10, b = 20;
 	double d1 = 3.2;
-	double d2 = 4.5;
+	double d2 = 5.5;
 	string str1 = "Hello, ";
 	string str2 = "World!";
-	cout << sum(a, b) << '\n';
-	cout << sum(d1, d2) << '\n';
-	cout << sum(str1, str2) << '\n';
+	cout << "int гу:" << sum<int>(a, b) << '\n';
+	cout << "double гу:" << sum<double>(d1, d2) << '\n';
+	cout << "string гу:" << sum<string>(str1, str2) << '\n';
 }
