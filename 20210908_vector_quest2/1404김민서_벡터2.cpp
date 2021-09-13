@@ -23,9 +23,9 @@ int main() {
 		x[i].movieName = a;
 		x[i].starGetsu = b;
 		i++;
-		x.resize(i);
+		x.resize(i + 1);
 	}
-	for (int i = 0; i < x.size(); i++) {
+	for (int i = 0; i < x.size() - 1; i++) {
 		cout << x[i].movieName << ' ' << x[i].starGetsu << '\n';
 	}
 	return 0;
