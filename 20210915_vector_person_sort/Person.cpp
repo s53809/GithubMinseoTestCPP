@@ -24,5 +24,5 @@ int Person::GetAge() {
 	return age;
 }
 void Person::ShowInfo() {
-	cout << "이름 : " << name << ", 주민번호 : " << id << ", 나이 : " << age << '\n';
+	cout << "이름 : " << name << ", 주민번호 : " << id << ", 나이 : " << age << ", 키 : " << height << '\n';
 }
