@@ -45,11 +45,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20210915_STL_과제", "2021
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartPointer", "SmartPointer\SmartPointer.vcxproj", "{B1AC5902-EF50-4D84-8288-66DAD1EBF7D4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "explict", "explict\explict.vcxproj", "{4B4856CE-913A-402B-9CFE-7CAF2C45D89A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "explicit", "explict\explict.vcxproj", "{4B4856CE-913A-402B-9CFE-7CAF2C45D89A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DefaultCopy", "DefaultCopy\DefaultCopy.vcxproj", "{FE2F4BD7-66D7-4509-9B07-858AFB0E7F5A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeepCopy", "DeepCopy\DeepCopy.vcxproj", "{8DF944CC-4AE7-48FC-BF51-CFD1FCE8A4A2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20211103_overroding", "20211103_overroding\20211103_overroding.vcxproj", "{800B13DC-7D30-42D3-97E1-E4D7083EE95C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -251,6 +253,14 @@ Global
 		{8DF944CC-4AE7-48FC-BF51-CFD1FCE8A4A2}.Release|x64.Build.0 = Release|x64
 		{8DF944CC-4AE7-48FC-BF51-CFD1FCE8A4A2}.Release|x86.ActiveCfg = Release|Win32
 		{8DF944CC-4AE7-48FC-BF51-CFD1FCE8A4A2}.Release|x86.Build.0 = Release|Win32
+		{800B13DC-7D30-42D3-97E1-E4D7083EE95C}.Debug|x64.ActiveCfg = Debug|x64
+		{800B13DC-7D30-42D3-97E1-E4D7083EE95C}.Debug|x64.Build.0 = Debug|x64
+		{800B13DC-7D30-42D3-97E1-E4D7083EE95C}.Debug|x86.ActiveCfg = Debug|Win32
+		{800B13DC-7D30-42D3-97E1-E4D7083EE95C}.Debug|x86.Build.0 = Debug|Win32
+		{800B13DC-7D30-42D3-97E1-E4D7083EE95C}.Release|x64.ActiveCfg = Release|x64
+		{800B13DC-7D30-42D3-97E1-E4D7083EE95C}.Release|x64.Build.0 = Release|x64
+		{800B13DC-7D30-42D3-97E1-E4D7083EE95C}.Release|x86.ActiveCfg = Release|Win32
+		{800B13DC-7D30-42D3-97E1-E4D7083EE95C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
