@@ -53,6 +53,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeepCopy", "DeepCopy\DeepCo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20211103_overroding", "20211103_overroding\20211103_overroding.vcxproj", "{800B13DC-7D30-42D3-97E1-E4D7083EE95C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20211110_문자검색프로그램", "20211110_문자검색프로그램\20211110_문자검색프로그램.vcxproj", "{C482BC56-AF26-4AC1-9793-36EEBE82AC17}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "person_operand_overloading_1404_김민서", "person_operand_overloading_1404_김민서\person_operand_overloading_1404_김민서.vcxproj", "{54DFEA8D-5591-4695-AD4C-315328CCE271}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -261,6 +265,22 @@ Global
 		{800B13DC-7D30-42D3-97E1-E4D7083EE95C}.Release|x64.Build.0 = Release|x64
 		{800B13DC-7D30-42D3-97E1-E4D7083EE95C}.Release|x86.ActiveCfg = Release|Win32
 		{800B13DC-7D30-42D3-97E1-E4D7083EE95C}.Release|x86.Build.0 = Release|Win32
+		{C482BC56-AF26-4AC1-9793-36EEBE82AC17}.Debug|x64.ActiveCfg = Debug|x64
+		{C482BC56-AF26-4AC1-9793-36EEBE82AC17}.Debug|x64.Build.0 = Debug|x64
+		{C482BC56-AF26-4AC1-9793-36EEBE82AC17}.Debug|x86.ActiveCfg = Debug|Win32
+		{C482BC56-AF26-4AC1-9793-36EEBE82AC17}.Debug|x86.Build.0 = Debug|Win32
+		{C482BC56-AF26-4AC1-9793-36EEBE82AC17}.Release|x64.ActiveCfg = Release|x64
+		{C482BC56-AF26-4AC1-9793-36EEBE82AC17}.Release|x64.Build.0 = Release|x64
+		{C482BC56-AF26-4AC1-9793-36EEBE82AC17}.Release|x86.ActiveCfg = Release|Win32
+		{C482BC56-AF26-4AC1-9793-36EEBE82AC17}.Release|x86.Build.0 = Release|Win32
+		{54DFEA8D-5591-4695-AD4C-315328CCE271}.Debug|x64.ActiveCfg = Debug|x64
+		{54DFEA8D-5591-4695-AD4C-315328CCE271}.Debug|x64.Build.0 = Debug|x64
+		{54DFEA8D-5591-4695-AD4C-315328CCE271}.Debug|x86.ActiveCfg = Debug|Win32
+		{54DFEA8D-5591-4695-AD4C-315328CCE271}.Debug|x86.Build.0 = Debug|Win32
+		{54DFEA8D-5591-4695-AD4C-315328CCE271}.Release|x64.ActiveCfg = Release|x64
+		{54DFEA8D-5591-4695-AD4C-315328CCE271}.Release|x64.Build.0 = Release|x64
+		{54DFEA8D-5591-4695-AD4C-315328CCE271}.Release|x86.ActiveCfg = Release|Win32
+		{54DFEA8D-5591-4695-AD4C-315328CCE271}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
